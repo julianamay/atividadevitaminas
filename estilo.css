@@ -1,6 +1,7 @@
 body {
     background-color: #e2d8e2
-    margin: 24px;
+    color: #21022d
+    padding: 24px
 }
 
 h1 {
@@ -8,6 +9,7 @@ h1 {
         text-align: center;
         background: color #21002d;
         margin: 8px;
+        border: 8px solid; color: #21002d;
     
     }
     
